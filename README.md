@@ -43,6 +43,12 @@
 </p>
 
 ---
+### 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shikhayadav-io&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="Shikha's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shikhayadav-io&layout=compact&theme=radical&include_all_commits=true" alt="Top Languages" />
+</p>
 
 ### 🌐 Connect With Me
 
