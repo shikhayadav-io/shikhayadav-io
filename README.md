@@ -22,11 +22,14 @@
 
 ---
 
-### 📊 My GitHub Activity & Contribution Graph
+
+
+### 📊 My GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhayadav-io&theme=react-dark&hide_border=true&area=true" alt="Shikha's GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=shikhayadav-io&theme=radical&hide_border=true" alt="Shikha's GitHub Streak" />
 </p>
+---
 
 ### 📈 Languages & Tech Metrics
 
